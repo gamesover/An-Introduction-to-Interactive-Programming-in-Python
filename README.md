@@ -1,9 +1,9 @@
 # Asteriods
 
-This is for final assignment for coursera.org course [An Introduction to Interactive Programming in Python](https://www.coursera.org/learn/interactive-python-1)
+This is for final assignment of [coursera](https://www.coursera.org) course [An Introduction to Interactive Programming in Python](https://www.coursera.org/learn/interactive-python-1)
 Course and code finished in 2012.12, push into github in 2017.1
   
- You can open the link http://www.codeskulptor.org/#user17_6I1HceodDk_2.py 
+ You can open the [link](http://www.codeskulptor.org/#user17_6I1HceodDk_2.py) and then 
 click run button to start play with it
 
 * "Up arrow" key is to accelerate
