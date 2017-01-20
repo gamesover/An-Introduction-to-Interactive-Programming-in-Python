@@ -1,4 +1,4 @@
-# An-Introduction-to-Interactive-Programming-in-Python
+# Asteriods
 
 This is for final assignment for coursera.org course [An Introduction to Interactive Programming in Python](https://www.coursera.org/learn/interactive-python-1)
 Course and code finished in 2012.12, push into github in 2017.1
